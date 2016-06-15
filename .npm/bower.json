@@ -7,7 +7,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "susy": "~2.2.5",
+    "susy": "~2.2.6",
     "bower.json": "~0.6.9"
   },
   "ignore": [
